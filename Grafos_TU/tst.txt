@@ -1,0 +1,5 @@
+ninamachado,Marina Fontes,19,azul,Madonna,Mulan,AP,Aracaju
+lmach,Luiza Machado,26,azul,Madonna,Mulan,AP,Aracaju
+dan,Danilo,30,preto,Madonna,O Último Samurai,Crepúsculo,São Carlos
+bia,Beatriz,20,preto,Luisa Sonza,Moana,Crepúsculo,São Carlos
+nina,Marina,19,azul,Beyonce,HP,AP,Aracaju
